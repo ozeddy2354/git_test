@@ -1,0 +1,51 @@
+/* style.css */
+/* Style the form container */
+body{
+    font-size: large;
+    text-align: center;
+    background-color: aqua;
+}
+#myForm {
+    width: 100px;
+    margin: 0 auto;
+
+  }
+  .container{
+    text-align: center;
+  }
+  .set{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100px;
+    height: 100px;
+  }
+  
+  /* Style form labels */
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  /* Style text inputs */
+  input[type="text"],
+  input[type="email"] {
+    width: 100%;
+    padding: 100px;
+    margin-bottom: 15px;
+    border: 1px solid #e4b0b0;
+    border-radius: 13px;
+  }
+  
+  /* Style the submit button */
+  input[type="submit"] {
+    background-color: #4CAF50;
+    color: rgb(151, 107, 107);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+  }
+  
+  /* Style the submit button on hover */
+  input[type="
+  
